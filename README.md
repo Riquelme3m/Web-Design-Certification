@@ -6,16 +6,16 @@ This repository contains various front end projects that I have built while lear
 ![Tacos WebSite](Images/tacos-one.png)
 ---
 
-![Tacos WebSite](Images/tacos-two.png)
+<!--![Tacos WebSite](Images/tacos-two.png)
 ---
 
 ![Tacos WebSite](Images/tacos-three.png)
----
+--- -->
 
 # Transparent Login Form using CSS
 
 ![Transparent Login Form](Images/Transparent-Login-Form.png)
-
+---
 # Finnish Form
 
-![Finnish Form](Images/Finnish-form.png)
+![Finnish Form](Images/Finnish-Form.png)
