@@ -21,6 +21,4 @@ This repository contains various front end projects that I have built while lear
 ![Finnish Form](Images/Finnish-Form.png)
 --
 
-# English Road Map for English Learners
 
-![English Website](Images/English-website.png)
